@@ -1,7 +1,7 @@
-# Hi! 👋
-I am a 11 year-old person who (kind of) likes coding.
+# 👋
+I am a 12 year-old boy who in average likes coding.
 
-## My favourite things/skills:
+## My favourite things and skills:
 **Programming Languages:**
 
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=yellow&color=black)
@@ -34,6 +34,7 @@ I am a 11 year-old person who (kind of) likes coding.
 **Browsers:**
 
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=orange&color=black)
+![Edge](https://img.shields.io/badge/Edge_Browser-FF7139?style=for-the-badge&logo=Edge-Browser&logoColor=blue&color=black)
 
 ## My Github stats:
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WojtekCodesToday&theme=github_dark)
