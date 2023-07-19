@@ -1,5 +1,5 @@
 # Welcome.
-I am a 12 year-old boy who in average likes coding and collaborate with others.
+I am an boy who in average likes coding and collaborate with others.
 
 ## My favourite things and skills:
 **Programming Languages:**
