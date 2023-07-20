@@ -1,25 +1,35 @@
-# Welcome.
+<p align=center><a href="https://github.com/WojtekCodesToday"><img src="https://avatars.githubusercontent.com/u/94251112?v=4" width=100/></a>
+</p>
+<p align=center>
 I am an boy who in average likes coding and collaborate with others.
+</p>
 
-## My favourite things and skills:
-**Programming Languages:**
+<h1><p align=center>My favourite things and skills:</p></h1>
+<p align=center><b>Programming Languages:</b></p>
+<p align=center>
+  <img  src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=F8F8F8&color=black"/>
+  <img  src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&color=black"/>
+  <img  src="https://img.shields.io/badge/JavaScript (Node.js)-323330?style=for-the-badge&logo=node.js&logoColor=F7DF1E&color=black"/>
+  <img  src="https://img.shields.io/badge/Go-323330?style=for-the-badge&logo=go&color=black"/>
+</p>
 
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&color=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&color=black)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=black)
+<p align=center>
+<b>Scripting Languages/Web Frameworks:</b>
+</p>
+<p align=center>
+  <img  src="https://img.shields.io/badge/Go-323330?style=for-the-badge&logo=vite&color=black"/>
+  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=black"/>
+  <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=black"/>
+  <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=black"/>
+  <img  src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&color=black"/>
+  <img  src="https://img.shields.io/badge/JSON (roost.js)-323330?style=for-the-badge&logo=json&color=black"/>
+</p>
 
-
-**Scripting Languages/Web Frameworks:**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=black)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&color=black)
-![TS](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&color=black)
-
-**Package Indexers:**
-
-![PYPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&color=black)
-![NPM](https://img.shields.io/badge/npm-3775A9?style=for-the-badge&logo=npm&color=black)
+<p align=center><b>Package Indexers:</b></p>
+<p align=center>
+<img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&color=black">
+<img src="https://img.shields.io/badge/npm-3775A9?style=for-the-badge&logo=npm&color=black">
+</p>
 
 **IDEs:**
 
